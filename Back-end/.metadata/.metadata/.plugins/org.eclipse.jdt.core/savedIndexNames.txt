@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+S:\FSAD\FSAD-SKILL\Job Portal\Back-end\.metadata\.metadata\.plugins\org.eclipse.jdt.core
